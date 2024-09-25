@@ -1,5 +1,4 @@
 # family_tree_Java
-TicTacToe Game in Java
 Εργαλεία που χρησιμοποιήθηκαν:
 	-IDE: IntelliJ IDEA
 	-Java SDK: Oracle OpenJDK v.11.0.13
